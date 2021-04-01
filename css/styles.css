@@ -1,0 +1,319 @@
+/* Navigation Bar Styles */
+.navbar-nav > .nav-button {
+  background: #695d92;
+  color: #fff;
+  padding: 4px 15px 4px 15px;
+}
+
+/* End of Navigation Bar Styles */
+
+.jumbotron {
+  background: #fff;
+}
+.banner,
+.loan,
+.internship {
+  line-height: 25px;
+  margin-top: 6.5%;
+}
+.banner h1,
+.loan h1,
+.internship h1,
+.interest h1 {
+  color: #270049;
+}
+
+.banner h1 {
+  font-weight: bold;
+  font-size: 48px;
+  margin: 0px 170px 30px 0px;
+}
+
+.banner small,
+.loan-text,
+.internship-text,
+.interest-text {
+  font-size: 14px;
+}
+
+.banner > button,
+.loan > .loan-btn,
+.internship > .internship-btn,
+.interest > .interest-btn,
+.package-card-body > .package-card-btn,
+.create-act-btn-container > .create-act-btn {
+  font-weight: bold;
+  padding: 10px 36px 10px 36px;
+}
+
+.banner > button,
+.loan > .loan-btn,
+.internship > .internship-btn,
+.interest > .interest-btn,
+.package-card-body > .package-card-btn {
+  background: #725ac1;
+  color: #fff;
+}
+
+.banner > button,
+.loan > .loan-btn,
+.internship > .internship-btn,
+.interest > .interest-btn {
+  margin-top: 50px;
+}
+
+/*  */
+
+.how-it-works-section {
+  margin-top: -15%;
+}
+
+.how-it-works {
+  background: #f7f7f7;
+}
+
+.how-it-works-container > h3 {
+  font-size: 20px;
+  color: #270049;
+  margin-bottom: 3%;
+}
+
+.img-container {
+  text-align: center;
+}
+
+.item-img {
+  width: 50%;
+}
+
+.item-img-3 {
+  width: 49%;
+}
+
+.item-img-4 {
+  width: 40%;
+}
+
+.card-container {
+  padding: 15% 0px 0px 0px;
+  border-radius: 22px 22px 0px 0px;
+  background: #ffffff;
+}
+
+.card-body-container > h5 {
+  text-align: center;
+  color: #270049;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card-body-container > p {
+  font-size: 14px;
+}
+
+.card-footer {
+  padding: 0.2rem 1.25rem;
+  background: #fe5f55;
+}
+
+/* Loan */
+.loan-main-container {
+  margin-top: -13%;
+}
+
+.loan h1,
+.internship > h1,
+.interest > h1 {
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+.loan > .loan-text-container,
+.interest > .interest-text-container {
+  padding-right: 40%;
+}
+
+/*Internship  */
+
+.internship {
+  padding-left: 15%;
+}
+
+.internship-text-container {
+  padding-right: 30%;
+}
+
+/* Interest */
+.interest {
+  margin-top: 3.4%;
+}
+
+.interest > h1 {
+  font-weight: bold;
+  margin: 0px 150px 30px 0px;
+}
+
+/* Package */
+.package-container {
+  padding: 3% 0px 10% 0px;
+}
+.package-container > h1 {
+  font-size: 32px;
+  color: #1e2e42;
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.package-card {
+  /* width: 20rem; */
+  /* height: 28.5rem; */
+}
+
+.card-header {
+  text-align: center;
+  color: #ffffff;
+}
+
+.card > .item-1 {
+  background: #f4a0d7;
+}
+
+.card > .item-2 {
+  background: #4392f1;
+}
+
+.card > .item-3 {
+  background: #fe5f55;
+}
+
+.package-card-body {
+  padding: 30px 80px 20px 80px;
+  text-align: center;
+  background: #fff;
+}
+
+.package-card-body > p {
+  color: #aab1b9;
+  font-size: 14px;
+}
+
+.package-card-body > p > .p-innerText {
+  color: #270049;
+}
+
+.package-card-body > .hr-1 {
+  margin-top: 4rem;
+}
+.package-card-body > .hr-2 {
+  margin-top: 7.5rem;
+}
+.package-card-body > .hr-3 {
+  margin-top: 8.7rem;
+}
+
+/*  */
+.customer-card > .customer-card-body {
+  text-align: center;
+}
+.customer-review {
+  margin-top: -15%;
+  background: #f7f7f7;
+  padding-bottom: 10%;
+}
+
+.customer-review-text > .p-tag-container > p {
+  font-size: 32px;
+  line-height: 33px;
+  color: #270049;
+}
+
+.p-tag-container {
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+}
+
+.customer-img-container > .customer-img {
+  border-radius: 80px;
+  /* width: 130px; */
+}
+
+.profile {
+  padding-left: 50px;
+  align-items: center;
+  /* text-align: center; */
+}
+
+.arrow-left,
+.arrow-right {
+  background: #fff;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/*  */
+
+.create-acct {
+  background: #4392f1;
+  border-radius: 10px;
+  padding: 50px 0px 4% 9%;
+  position: absolute;
+  z-index: 2;
+  margin-top: 6%;
+}
+
+.create-acct-text > h6,
+.create-acct-text > small {
+  color: #ffffff;
+}
+
+.create-acct-text > h6 {
+  font-size: 24px;
+}
+
+.create-acct-text > small {
+  font-size: 18px;
+}
+.create-act-btn-container {
+  padding: 10px 0px 0px 0px;
+}
+
+.create-act-btn {
+  background: #ffffff;
+  color: #725ac1;
+  border: none;
+  border-radius: 5px;
+}
+
+/*  */
+
+.footer-container {
+  background: #270049;
+  padding: 15% 0px 45px 0px;
+  position: relative;
+  z-index: 1;
+}
+
+.footer-texts {
+  padding: 40px 59% 20px 0px;
+}
+
+.footer-texts > small,
+.footer-aside > a {
+  color: #9b9b9b;
+  font-size: 14px;
+}
+
+.footer-icons {
+  color: #9b9b9b;
+  cursor: pointer;
+}
+
+.footer-aside > a {
+  text-decoration: none;
+}
+
+.footer-aside2 {
+  padding-top: 30%;
+}
+/*  */
