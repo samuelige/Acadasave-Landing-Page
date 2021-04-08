@@ -1,152 +1,94 @@
-@media only screen and (max-width: 360px) {
-  .banner-container {
-    background: url("../images/banner.png");
+@media only screen and (max-width: 768px) {
+  .banner small,
+  .loan-text,
+  .internship-text,
+  .interest-text {
+    font-size: 17px;
   }
 
-  .banner h1 {
-    font-weight: bold;
-    font-size: 48px;
-    margin: 0px 80px 30px 0px;
+  .row > .third-card,
+  .row > .last-card {
+    margin-top: 30px;
   }
 
-  .banner-image {
-    display: none;
+  /* How it works */
+  .card-body-container > p {
+    text-align: center;
   }
 
-  .loan-main-container {
-    background: url("../images/img5.png");
+  /* Loan */
+
+  .loan > .loan-text-container,
+  .interest > .interest-text-container {
+    padding-right: 30%;
   }
 
-  .loan > .loan-text-container {
-    padding-right: 10%;
+  .create-acct {
+    justify-content: center;
+    width: 90%;
+    overflow: hidden;
   }
 
-  .loan-image {
-    display: none;
-  }
-
-  /*  */
-
-  .internship-main-container {
-    background: url("../images/img6.png");
-  }
-
-  .internship-btn-image {
-    display: none;
-  }
+  /* intership */
 
   .internship {
-    padding-left: 5%;
+    padding-left: 2%;
   }
 
   .internship-text-container {
     padding-right: 10%;
   }
 
-  /*  */
-
-  .interest > h1 {
-    margin: 0px 50px 30px 0px;
-  }
-
-  .interest-main-container {
-    background: url("../images/img7.png");
-  }
-
-  .interest > .interest-text-container {
-    padding-right: 10%;
-  }
-
-  .interest-image {
-    display: none;
-  }
-
   /* Footer */
-
   .footer-container {
-    padding: 60% 0px 45px 0px;
-  }
-
-  .footer-texts {
-    padding: 40px 10% 20px 0px;
-  }
-
-  .footer-icons {
-    margin-bottom: 6%;
-  }
-
-  .footer-aside2 {
-    padding-top: 1%;
+    padding: 20% 0 45px 0;
+    position: relative;
+    z-index: 1;
   }
 }
 
-@media only screen and (max-width: 411px) {
-  .banner-container {
-    background: url("../images/banner.png");
+@media only screen and (max-width: 1024px) {
+  .package-card-body > .hr-3 {
+    margin-top: 11.5rem;
   }
 
+  .create-acct {
+    justify-content: center;
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 540px) {
   .banner h1 {
     font-weight: bold;
     font-size: 48px;
     margin: 0px 80px 30px 0px;
   }
 
-  .banner-image {
-    display: none;
-  }
-
-  .loan-main-container {
-    background: url("../images/img5.png");
-  }
-
   .loan > .loan-text-container {
     padding-right: 10%;
   }
 
-  .loan-image {
-    display: none;
-  }
-
-  /*  */
-
-  .internship-main-container {
-    background: url("../images/img6.png");
-  }
-
-  .internship-btn-image {
-    display: none;
-  }
-
-  .internship {
-    padding-left: 5%;
-  }
-
-  .internship-text-container {
-    padding-right: 10%;
-  }
-
-  /*  */
+  /*Interest  */
 
   .interest > h1 {
-    margin: 0px 50px 30px 0px;
-  }
-
-  .interest-main-container {
-    background: url("../images/img7.png");
+    margin: 0px 30px 30px 0px;
   }
 
   .interest > .interest-text-container {
     padding-right: 10%;
   }
 
-  .interest-image {
-    display: none;
+  .create-acct {
+    justify-content: center;
+    width: 95%;
   }
 
   /* Footer */
 
   .footer-container {
-    padding: 60% 0px 45px 0px;
+    padding: 40% 0px 45px 0px;
+    overflow: hidden;
   }
 
   .footer-texts {
@@ -163,41 +105,17 @@
 }
 
 @media only screen and (max-width: 414px) {
-  .banner-container {
-    background: url("../images/banner.png");
-  }
-
   .banner h1 {
     font-weight: bold;
     font-size: 48px;
-    margin: 0px 80px 30px 0px;
-  }
-
-  .banner-image {
-    display: none;
-  }
-
-  .loan-main-container {
-    background: url("../images/img5.png");
+    margin: 0px 10px 30px 0px;
   }
 
   .loan > .loan-text-container {
     padding-right: 10%;
   }
 
-  .loan-image {
-    display: none;
-  }
-
-  /*  */
-
-  .internship-main-container {
-    background: url("../images/img6.png");
-  }
-
-  .internship-btn-image {
-    display: none;
-  }
+  /* Internship */
 
   .internship {
     padding-left: 5%;
@@ -213,22 +131,19 @@
     margin: 0px 50px 30px 0px;
   }
 
-  .interest-main-container {
-    background: url("../images/img7.png");
-  }
-
   .interest > .interest-text-container {
     padding-right: 10%;
   }
 
-  .interest-image {
-    display: none;
+  .create-acct {
+    justify-content: center;
+    width: 93%;
   }
 
   /* Footer */
 
   .footer-container {
-    padding: 60% 0px 45px 0px;
+    padding: 50% 0px 45px 0px;
   }
 
   .footer-texts {
@@ -244,63 +159,18 @@
   }
 }
 
-@media only screen and (max-width: 768px) {
-  .customer-review {
-    margin-top: -13%;
-  }
-
-  .p-tag-container {
-    padding-top: 50px;
-    padding-bottom: 50px;
-  }
-
-  .profile {
-    padding-left: 0px;
-  }
-}
-
-@media only screen and (max-width: 1024px) {
-  .package-card-body > .hr-3 {
-    margin-top: 11.5rem;
-  }
-}
-
-@media only screen and (max-width: 540px) {
-  .banner-container {
-    background: url("../images/banner.png");
-  }
-
+@media only screen and (max-width: 360px) {
   .banner h1 {
     font-weight: bold;
     font-size: 48px;
     margin: 0px 80px 30px 0px;
   }
 
-  .banner-image {
-    display: none;
-  }
-
-  .loan-main-container {
-    background: url("../images/img5.png");
-  }
-
   .loan > .loan-text-container {
     padding-right: 10%;
   }
 
-  .loan-image {
-    display: none;
-  }
-
   /*  */
-
-  .internship-main-container {
-    background: url("../images/img6.png");
-  }
-
-  .internship-btn-image {
-    display: none;
-  }
 
   .internship {
     padding-left: 5%;
@@ -316,22 +186,19 @@
     margin: 0px 50px 30px 0px;
   }
 
-  .interest-main-container {
-    background: url("../images/img7.png");
-  }
-
   .interest > .interest-text-container {
     padding-right: 10%;
   }
 
-  .interest-image {
-    display: none;
+  .create-acct {
+    justify-content: center;
+    width: 93%;
   }
 
   /* Footer */
 
   .footer-container {
-    padding: 60% 0px 45px 0px;
+    padding: 50% 0px 45px 0px;
   }
 
   .footer-texts {
@@ -348,11 +215,21 @@
 }
 
 @media only screen and (max-width: 280px) {
+  .banner h1 {
+    font-size: 35px;
+  }
+
   .package-card-body {
     padding: 30px 40px 20px 40px;
     text-align: center;
   }
   .footer-container {
     padding: 80% 0px 45px 0px;
+  }
+
+  .create-acct {
+    justify-content: center;
+    padding: 50px 0px 4% 7%;
+    width: 89%;
   }
 }

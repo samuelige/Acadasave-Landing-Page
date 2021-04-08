@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 /* Navigation Bar Styles */
 .navbar-nav > .nav-button {
   background: #695d92;
@@ -256,10 +262,12 @@
 .create-acct {
   background: #4392f1;
   border-radius: 10px;
+  justify-content: center;
   padding: 50px 0px 4% 9%;
   position: absolute;
   z-index: 2;
   margin-top: 6%;
+  box-sizing: border-box;
 }
 
 .create-acct-text > h6,
@@ -286,10 +294,11 @@
 }
 
 /*  */
-
-.footer-container {
+footer {
   background: #270049;
-  padding: 15% 0px 45px 0px;
+}
+.footer-container {
+  padding: 15% 0 45px 0;
   position: relative;
   z-index: 1;
 }

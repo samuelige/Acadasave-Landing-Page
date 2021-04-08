@@ -1,0 +1,358 @@
+@media only screen and (max-width: 360px) {
+  .banner-container {
+    /* background: url("../images/banner.png"); */
+  }
+
+  .banner h1 {
+    font-weight: bold;
+    font-size: 48px;
+    margin: 0px 80px 30px 0px;
+  }
+
+  .banner-image {
+    /* display: none; */
+  }
+
+  .loan-main-container {
+    /* background: url("../images/img5.png"); */
+  }
+
+  .loan > .loan-text-container {
+    padding-right: 10%;
+  }
+
+  .loan-image {
+    display: none;
+  }
+
+  /*  */
+
+  .internship-main-container {
+    background: url("../images/img6.png");
+  }
+
+  .internship-btn-image {
+    display: none;
+  }
+
+  .internship {
+    padding-left: 5%;
+  }
+
+  .internship-text-container {
+    padding-right: 10%;
+  }
+
+  /*  */
+
+  .interest > h1 {
+    margin: 0px 50px 30px 0px;
+  }
+
+  .interest-main-container {
+    background: url("../images/img7.png");
+  }
+
+  .interest > .interest-text-container {
+    padding-right: 10%;
+  }
+
+  .interest-image {
+    display: none;
+  }
+
+  /* Footer */
+
+  .footer-container {
+    padding: 60% 0px 45px 0px;
+  }
+
+  .footer-texts {
+    padding: 40px 10% 20px 0px;
+  }
+
+  .footer-icons {
+    margin-bottom: 6%;
+  }
+
+  .footer-aside2 {
+    padding-top: 1%;
+  }
+}
+
+/* @media only screen and (max-width: 411px) {
+  .banner-container {
+    background: url("../images/banner.png");
+  }
+
+  .banner h1 {
+    font-weight: bold;
+    font-size: 48px;
+    margin: 0px 80px 30px 0px;
+  }
+
+  .banner-image {
+    display: none;
+  }
+
+  .loan-main-container {
+    background: url("../images/img5.png");
+  }
+
+  .loan > .loan-text-container {
+    padding-right: 10%;
+  }
+
+  .loan-image {
+    display: none;
+  }
+
+  /*  */
+
+  .internship-main-container {
+    background: url("../images/img6.png");
+  }
+
+  .internship-btn-image {
+    display: none;
+  }
+
+  .internship {
+    padding-left: 5%;
+  }
+
+  .internship-text-container {
+    padding-right: 10%;
+  }
+
+  /*  */
+
+  .interest > h1 {
+    margin: 0px 50px 30px 0px;
+  }
+
+  .interest-main-container {
+    background: url("../images/img7.png");
+  }
+
+  .interest > .interest-text-container {
+    padding-right: 10%;
+  }
+
+  .interest-image {
+    display: none;
+  }
+
+  /* Footer */
+
+  .footer-container {
+    padding: 60% 0px 45px 0px;
+  }
+
+  .footer-texts {
+    padding: 40px 10% 20px 0px;
+  }
+
+  .footer-icons {
+    margin-bottom: 6%;
+  }
+
+  .footer-aside2 {
+    padding-top: 1%;
+  }
+} */
+
+/* @media only screen and (max-width: 414px) {
+  .banner-container {
+    background: url("../images/banner.png");
+  }
+
+  .banner h1 {
+    font-weight: bold;
+    font-size: 48px;
+    margin: 0px 80px 30px 0px;
+  }
+
+  .banner-image {
+    display: none;
+  }
+
+  .loan-main-container {
+    background: url("../images/img5.png");
+  }
+
+  .loan > .loan-text-container {
+    padding-right: 10%;
+  }
+
+  .loan-image {
+    display: none;
+  }
+
+  /*  */
+
+  .internship-main-container {
+    background: url("../images/img6.png");
+  }
+
+  .internship-btn-image {
+    display: none;
+  }
+
+  .internship {
+    padding-left: 5%;
+  }
+
+  .internship-text-container {
+    padding-right: 10%;
+  }
+
+  /*  */
+
+  .interest > h1 {
+    margin: 0px 50px 30px 0px;
+  }
+
+  .interest-main-container {
+    background: url("../images/img7.png");
+  }
+
+  .interest > .interest-text-container {
+    padding-right: 10%;
+  }
+
+  .interest-image {
+    display: none;
+  }
+
+  /* Footer */
+
+  .footer-container {
+    padding: 60% 0px 45px 0px;
+  }
+
+  .footer-texts {
+    padding: 40px 10% 20px 0px;
+  }
+
+  .footer-icons {
+    margin-bottom: 6%;
+  }
+
+  .footer-aside2 {
+    padding-top: 1%;
+  }
+} */
+
+/* @media only screen and (max-width: 768px) {
+  .customer-review {
+    margin-top: -13%;
+  }
+
+  .p-tag-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .profile {
+    padding-left: 0px;
+  }
+} */
+
+/* @media only screen and (max-width: 1024px) {
+  .package-card-body > .hr-3 {
+    margin-top: 11.5rem;
+  }
+} */
+
+/* @media only screen and (max-width: 540px) {
+  .banner-container {
+    background: url("../images/banner.png");
+  }
+
+  .banner h1 {
+    font-weight: bold;
+    font-size: 48px;
+    margin: 0px 80px 30px 0px;
+  }
+
+  .banner-image {
+    display: none;
+  }
+
+  .loan-main-container {
+    background: url("../images/img5.png");
+  }
+
+  .loan > .loan-text-container {
+    padding-right: 10%;
+  }
+
+  .loan-image {
+    display: none;
+  }
+
+  /*  */
+
+  .internship-main-container {
+    background: url("../images/img6.png");
+  }
+
+  .internship-btn-image {
+    display: none;
+  }
+
+  .internship {
+    padding-left: 5%;
+  }
+
+  .internship-text-container {
+    padding-right: 10%;
+  }
+
+  /*  */
+
+  .interest > h1 {
+    margin: 0px 50px 30px 0px;
+  }
+
+  .interest-main-container {
+    background: url("../images/img7.png");
+  }
+
+  .interest > .interest-text-container {
+    padding-right: 10%;
+  }
+
+  .interest-image {
+    display: none;
+  }
+
+  /* Footer */
+
+  .footer-container {
+    padding: 60% 0px 45px 0px;
+  }
+
+  .footer-texts {
+    padding: 40px 10% 20px 0px;
+  }
+
+  .footer-icons {
+    margin-bottom: 6%;
+  }
+
+  .footer-aside2 {
+    padding-top: 1%;
+  }
+} */
+
+/* @media only screen and (max-width: 280px) {
+  .package-card-body {
+    padding: 30px 40px 20px 40px;
+    text-align: center;
+  }
+  .footer-container {
+    padding: 80% 0px 45px 0px;
+  }
+} */
